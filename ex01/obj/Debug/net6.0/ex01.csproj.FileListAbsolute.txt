@@ -1,0 +1,15 @@
+/Users/olgabazulina/Desktop/Task9/ex01/bin/Debug/net6.0/ex01
+/Users/olgabazulina/Desktop/Task9/ex01/bin/Debug/net6.0/ex01.deps.json
+/Users/olgabazulina/Desktop/Task9/ex01/bin/Debug/net6.0/ex01.runtimeconfig.json
+/Users/olgabazulina/Desktop/Task9/ex01/bin/Debug/net6.0/ex01.dll
+/Users/olgabazulina/Desktop/Task9/ex01/bin/Debug/net6.0/ex01.pdb
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.csproj.AssemblyReference.cache
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.AssemblyInfoInputs.cache
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.AssemblyInfo.cs
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.csproj.CoreCompileInputs.cache
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.dll
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/refint/ex01.dll
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.pdb
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ex01.genruntimeconfig.cache
+/Users/olgabazulina/Desktop/Task9/ex01/obj/Debug/net6.0/ref/ex01.dll
